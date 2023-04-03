@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fg33s1imo5rhoy3u/branch/master?svg=true)](https://ci.appveyor.com/project/AllaDudina/api-ci-dz-1-2-echo/branch/master)
